@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function () {
       const errorMsg = document.getElementById("loginError");
 
       if (username === "rizky" && password === "rizky123") {
-        window.location.href = "https://englisphere.github.io/murid/dasbor-rizky.html";
+        window.location.href = "https://eccenglisphere.github.io/dasbor-rizky.html";
       } else if (username === "andy" && password === "andy123") {
         window.location.href = "dasbor-andy.html";
       } else {
